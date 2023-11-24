@@ -1,2 +1,3 @@
 # Test H1 header
-## Test H2 header
+## Image of Yaktocat
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
